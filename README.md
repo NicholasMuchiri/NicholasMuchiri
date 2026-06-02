@@ -1,4 +1,4 @@
-# 💫 My name is Nicholas Muchiri,
+#  My name is Nicholas Muchiri,
       
 👨‍💻 IT Student, Kirinyaga University.
 
