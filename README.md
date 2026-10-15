@@ -16,17 +16,13 @@ current skills:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12263f,15:3b4a9a,30:0f7f8a,45:3a8f5c,60:7b4bb7,75:c2468f,88:c0392b,100:c98a2b&height=190&section=header&animation=fadeIn" alt="" />
-
 <!-- Tagline that types and rotates -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1400&color=F2C46D&background=0B1D33&center=true&vCenter=true&repeat=true&width=640&height=60&lines=Turning+projects+into+real-world+solutions;From+idea+to+working+system;Built+for+real+people+and+real+problems" alt="Turning projects into real-world solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1400&color=F4A6D0&background=2A1A4A&center=true&vCenter=true&repeat=true&width=640&height=60&lines=Turning+projects+into+real-world+solutions;From+idea+to+working+system;Built+for+real+people+and+real+problems" alt="Turning projects into real-world solutions" />
 
 <!-- A project being turned into something real, typed out line by line -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=1500&color=5FD4A8&background=0B1D33&center=true&vCenter=true&multiline=true&repeat=true&width=640&height=150&lines=%24+turn+--project+registration-system;%3E+validating+form+.........+ok;%3E+calculating+fees+........+ok;%3E+serving+real+students+...+live" alt="Terminal output: validating form, calculating fees, serving real students" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=1500&color=5FD4A8&background=0C2B3A&center=true&vCenter=true&multiline=true&repeat=true&width=640&height=150&lines=%24+turn+--project+registration-system;%3E+validating+form+.........+ok;%3E+calculating+fees+........+ok;%3E+serving+real+students+...+live" alt="Terminal output: validating form, calculating fees, serving real students" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:12263f,15:3b4a9a,30:0f7f8a,45:3a8f5c,60:7b4bb7,75:c2468f,88:c0392b,100:c98a2b&height=6&section=header" alt="" width="640" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12263f,15:3b4a9a,30:0f7f8a,45:3a8f5c,60:7b4bb7,75:c2468f,88:c0392b,100:c98a2b&height=100&section=footer" alt="" />
 
 </div>
 
