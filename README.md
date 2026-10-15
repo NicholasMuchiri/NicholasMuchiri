@@ -14,6 +14,28 @@ current skills:
 
  Passionate in building clean UI/UX design.
 
+ <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b191e,100:1f4a37&height=190&section=header&text=Nicholas%20Muchiri&fontColor=e8f0ee&fontSize=48&fontAlignY=40&animation=fadeIn" alt="Nicholas Muchiri" />
+
+<!-- Tagline that types and rotates -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1400&color=E8F0EE&background=0B191E&center=true&vCenter=true&repeat=true&width=640&height=60&lines=Turning+projects+into+real-world+solutions;From+idea+to+working+system;Built+for+real+people+and+real+problems" alt="Turning projects into real-world solutions" />
+
+<!-- A project being turned into something real, typed out line by line -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=1500&color=5FD4A8&background=0B191E&center=true&vCenter=true&multiline=true&repeat=true&width=640&height=150&lines=%24+turn+--project+registration-system;%3E+validating+form+.........+ok;%3E+calculating+fees+........+ok;%3E+serving+real+students+...+live" alt="Terminal output: validating form, calculating fees, serving real students" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode" alt="HTML, CSS, JavaScript, PHP, MySQL, Git, GitHub, VS Code" />
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b191e,100:1f4a37&height=90&section=footer" alt="" />
+
+</div>
+
  
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/c-note) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/n.i.k.o.l.u.s) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/c_note_x1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nicholasmuchiri45@gmail.com) 
