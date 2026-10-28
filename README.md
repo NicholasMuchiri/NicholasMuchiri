@@ -1,6 +1,6 @@
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=4F7CFF&center=true&vCenter=true&repeat=false&width=640&height=50&lines=My+name+is+Nicholas+Muchiri" alt="My name is Nicholas Muchiri" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=1200&color=6E7F9A&center=true&vCenter=true&repeat=true&width=640&height=40&lines=IT+Student;Web+Developer;UI%2FUX+Enthusiast;Troubleshooter;Problem+Solver;Always+Learning" alt="IT Student, Web Developer, UI/UX Enthusiast" />
 
-<h1>My name is Nicholas Muchiri</h1>
 
 <p>IT Student, Kirinyaga University<br>
 Pursuing BSc in Information Technology</p>
