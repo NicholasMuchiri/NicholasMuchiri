@@ -17,10 +17,10 @@ current skills:
 <div align="center">
 
 <!-- Tagline that types and rotates -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1400&color=F4A6D0&background=2A1A4A&center=true&vCenter=true&repeat=true&width=640&height=60&lines=Turning+projects+into+real-world+solutions;From+idea+to+working+system;Built+for+real+people+and+real+problems" alt="Turning projects into real-world solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1400&color=E0559F&center=true&vCenter=true&repeat=true&width=640&height=60&lines=Turning+projects+into+real-world+solutions;Code+that+saves+someone+time;Debugging+life+one+commit+at+a+time;From+idea+to+working+system;Powered+by+coffee+and+stubbornness;Less+talk+and+more+shipping;Learning+something+new+every+day;Built+for+real+people+and+real+problems" alt="Turning projects into real-world solutions" />
 
-<!-- A project being turned into something real, typed out line by line -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=1500&color=5FD4A8&background=0C2B3A&center=true&vCenter=true&multiline=true&repeat=true&width=640&height=150&lines=%24+turn+--project+registration-system;%3E+validating+form+.........+ok;%3E+calculating+fees+........+ok;%3E+serving+real+students+...+live" alt="Terminal output: validating form, calculating fees, serving real students" />
+<!-- Terminal typed out line by line -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=1500&color=22A06B&center=true&vCenter=true&multiline=true&repeat=true&width=640&height=185&lines=%24+turn+--project+registration-system;%3E+validating+form+.........+ok;%3E+calculating+fees+........+ok;%3E+one+less+queue+for+someone+...+done;%3E+coffee+level+............+loading;%3E+bugs+fixed+today+.........+never+enough;%3E+serving+real+students+...+live" alt="Terminal output with project steps, coffee level and bugs fixed" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:12263f,15:3b4a9a,30:0f7f8a,45:3a8f5c,60:7b4bb7,75:c2468f,88:c0392b,100:c98a2b&height=6&section=header" alt="" width="640" />
 
