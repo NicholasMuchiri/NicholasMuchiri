@@ -20,7 +20,7 @@ Git/GitHub workflow & hosting · Clean UI/UX design</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:12263f,15:3b4a9a,30:0f7f8a,45:3a8f5c,60:7b4bb7,75:c2468f,88:c0392b,100:c98a2b&height=6&section=header" alt="" width="640" />
 
-</div>
+
 
  ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/c-note) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/n.i.k.o.l.u.s) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/c_note_x1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nicholasmuchiri45@gmail.com) 
