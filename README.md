@@ -1,27 +1,40 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=4F7CFF&center=true&vCenter=true&repeat=false&width=640&height=50&lines=My+name+is+Nicholas+Muchiri" alt="My name is Nicholas Muchiri" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=1200&color=6E7F9A&center=true&vCenter=true&repeat=true&width=640&height=40&lines=IT+Student;Web+Developer;UI%2FUX+Enthusiast;Troubleshooter;Problem+Solver;Always+Learning" alt="IT Student, Web Developer, UI/UX Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=4F7CFF&vCenter=true&repeat=false&width=500&height=50&lines=My+name+is+Nicholas+Muchiri" alt="My name is Nicholas Muchiri" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=1200&color=6E7F9A&vCenter=true&repeat=true&width=200&height=40&lines=IT+Student;Web+Developer;UI%2FUX+Enthusiast;Troubleshooter;Problem+Solver;Always+Learning" alt="IT Student, Web Developer, UI/UX Enthusiast" />
 
-<p>IT Student, Kirinyaga University<br>
-Pursuing BSc in Information Technology</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=4F7CFF&vCenter=true&repeat=false&width=500&height=50&lines=My+name+is+Nicholas+Muchiri" alt="My name is Nicholas Muchiri" />
 
-<p><b>Current skills</b></p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=1200&color=6E7F9A&vCenter=true&repeat=true&width=200&height=40&lines=IT+Student;Web+Developer;UI%2FUX+Enthusiast;Troubleshooter;Problem+Solver;Always+Learning" alt="IT Student, Web Developer, UI/UX Enthusiast" />
 
-<p>Web development and design · Troubleshooting & technical support<br>
-Git/GitHub workflow & hosting · Clean UI/UX design</p>
+I'm a BSc Information Technology student and entrepreneur from Kenya, combining academic knowledge with real-world experience running a local Wi-Fi network business.
 
-<br>
+My interests are centred around networking, Linux, cybersecurity, cloud technologies, and web development. I enjoy building practical solutions, troubleshooting complex technical problems, and continuously learning new technologies.
 
+What I'm Working On
+🌐 MikroTik network management
+💻 PHP & MySQL projects
+☁️ Cloud deployment and hosting
+🐧 Linux administration
+🔒 Cybersecurity fundamentals
+Goals
+Become a skilled Network Engineer
+Expand my cybersecurity expertise
+Build technology solutions that create real community impact
+Turning ideas into practical solutions, one project at a time.
 <!-- Tagline that types and rotates -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1400&color=E0559F&center=true&vCenter=true&repeat=true&width=640&height=60&lines=Turning+projects+into+real-world+solutions;Code+that+saves+someone+time;Debugging+life+one+commit+at+a+time;From+idea+to+working+system;Powered+by+coffee+and+stubbornness;Less+talk+and+more+shipping;Learning+something+new+every+day;Built+for+real+people+and+real+problems" alt="Turning projects into real-world solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1400&color=E0559F&vCenter=true&repeat=true&width=600&height=60&lines=Turning+projects+into+real-world+solutions;Code+that+saves+someone+time;Debugging+life+one+commit+at+a+time;From+idea+to+working+system;Powered+by+coffee+and+stubbornness;Less+talk+and+more+shipping;Learning+something+new+every+day;Built+for+real+people+and+real+problems" alt="Turning projects into real-world solutions" />
 
-<!-- Terminal: every line is exactly 36 characters so the block stays aligned -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=1500&color=22A06B&center=true&vCenter=true&multiline=true&repeat=true&width=640&height=185&lines=%24+turn+--project+registration-system;%3E+validating+form+...............+ok;%3E+calculating+fees+..............+ok;%3E+one+less+queue+..............+done;%3E+coffee+level+.............+loading;%3E+bugs+fixed+........+never+enough;%3E+serving+real+students+.......+live" alt="Terminal output with project steps, coffee level and bugs fixed" />
+<!-- Terminal -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=1500&color=22A06B&vCenter=true&multiline=true&repeat=true&width=360&height=185&lines=%24+turn+--project+registration-system;%3E+validating+form+...............+ok;%3E+calculating+fees+..............+ok;%3E+one+less+queue+..............+done;%3E+coffee+level+.............+loading;%3E+bugs+fixed+........+never+enough;%3E+serving+real+students+.......+live" alt="Terminal output with project steps, coffee level and bugs fixed" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:12263f,15:3b4a9a,30:0f7f8a,45:3a8f5c,60:7b4bb7,75:c2468f,88:c0392b,100:c98a2b&height=6&section=header" alt="" width="640" />
+<!-- Tagline that types and rotates -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1400&color=E0559F&vCenter=true&repeat=true&width=600&height=60&lines=Turning+projects+into+real-world+solutions;Code+that+saves+someone+time;Debugging+life+one+commit+at+a+time;From+idea+to+working+system;Powered+by+coffee+and+stubbornness;Less+talk+and+more+shipping;Learning+something+new+every+day;Built+for+real+people+and+real+problems" alt="Turning projects into real-world solutions" />
 
+<!-- Terminal -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=1500&color=22A06B&vCenter=true&multiline=true&repeat=true&width=360&height=185&lines=%24+turn+--project+registration-system;%3E+validating+form+...............+ok;%3E+calculating+fees+..............+ok;%3E+one+less+queue+..............+done;%3E+coffee+level+.............+loading;%3E+bugs+fixed+........+never+enough;%3E+serving+real+students+.......+live" alt="Terminal output with project steps, coffee level and bugs fixed" />
 
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:12263f,15:3b4a9a,30:0f7f8a,45:3a8f5c,60:7b4bb7,75:c2468f,88:c0392b,100:c98a2b&height=6&section=header" alt="" width="640" />
  ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/c-note) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/n.i.k.o.l.u.s) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/c_note_x1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nicholasmuchiri45@gmail.com) 
 
